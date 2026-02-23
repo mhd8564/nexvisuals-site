@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /cdn-cgi/
 Allow: /
 
-Sitemap: https://suppvisuals.com/sitemap.xml
+Sitemap: https://nexvisuals.com/sitemap.xml
